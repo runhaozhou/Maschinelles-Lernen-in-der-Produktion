@@ -12,6 +12,15 @@
 
 ![formula](https://render.githubusercontent.com/render/math?math=h_w(x)=w_0+\sum_{j=1}^{n}w_j*x_j)
 
+\begin{aligned}
+U_b &= (p - \alpha) P \times 10^{-1} / d^3 \\ &= \left\{
+  \begin{array}{ll}
+  (p - \alpha) \left(\dfrac{1}{p \ln 2} - \sigma \right), & P < P_{max} \\
+  (p - \alpha) \dfrac{P_{max}}{10 \cdot d^3}, & P = P_{max}
+  \end{array}
+  \right.
+\end{aligned}
+
 ## Bewertung der Einflussgrößen
 
 Regression erlaubt die Bewertung der Einflussgrößen hinsichtlich ihres Einflusses auf die Zielgröße (Sensitivitätsanalyse)
