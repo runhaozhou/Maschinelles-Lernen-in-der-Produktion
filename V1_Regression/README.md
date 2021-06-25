@@ -10,7 +10,7 @@
 
 ### Polynomiale Regression
 
-<img src="https://latex.codecogs.com/svg.image?\bg_white&space;h_w(x)=w_0&plus;\sum_{j=1}^{n}w_j*x_j" title="\bg_black h_w(x)=w_0+\sum_{j=1}^{n}w_j*x_j" />
+<img src="https://latex.codecogs.com/png.image?\dpi{110}&space;\bg_white&space;h_w(x)=w_0&plus;\sum_{j=1}^{n}w_j*x_j" title="\bg_white h_w(x)=w_0+\sum_{j=1}^{n}w_j*x_j" />
 
 ## Bewertung der Einflussgrößen
 
