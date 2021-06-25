@@ -10,10 +10,7 @@
 
 ### Polynomiale Regression
 
-
-$$
-h_w(x)=w_0+\sum_{j=1}^{n}w_j*x_j
-$$
+![formula](https://render.githubusercontent.com/render/math?math=h_w(x)=w_0+\sum_{j=1}^{n}w_j*x_j)
 
 ## Bewertung der Einflussgrößen
 
@@ -37,7 +34,7 @@ Wertebereich [0, 1]  nach Skalierung
 $$
 x_{scaled}=\frac{x-min(x)}{max(x)-min(x)}\qquad
 $$
-<img src="C:\Users\runha\Desktop\Neuer Ordner\Job und Doktorand\2022申博\Project\Maschinelles_Lernen_in_der_Produktion\V1_Regression\Abbildung\MinMaxScaler.JPG" style="zoom:80%;" />
+<img src="https://github.com/runhaozhou/Maschinelles_Lernen_in_der_Produktion/blob/master/V1_Regression/Abbildung/MaxAbsScaler.JPG" style="zoom:80%;" />
 
 #### Mean normalisation / MaxAbsScaler
 
