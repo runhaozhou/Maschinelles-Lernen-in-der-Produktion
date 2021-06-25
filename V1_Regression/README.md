@@ -10,16 +10,7 @@
 
 ### Polynomiale Regression
 
-![formula](https://render.githubusercontent.com/render/math?math=h_w(x)=w_0+\sum_{j=1}^{n}w_j*x_j)
-
-\begin{aligned}
-U_b &= (p - \alpha) P \times 10^{-1} / d^3 \\ &= \left\{
-  \begin{array}{ll}
-  (p - \alpha) \left(\dfrac{1}{p \ln 2} - \sigma \right), & P < P_{max} \\
-  (p - \alpha) \dfrac{P_{max}}{10 \cdot d^3}, & P = P_{max}
-  \end{array}
-  \right.
-\end{aligned}
+<img src="https://latex.codecogs.com/svg.image?\bg_white&space;h_w(x)=w_0&plus;\sum_{j=1}^{n}w_j*x_j" title="\bg_white h_w(x)=w_0+\sum_{j=1}^{n}w_j*x_j" />
 
 ## Bewertung der Einflussgrößen
 
